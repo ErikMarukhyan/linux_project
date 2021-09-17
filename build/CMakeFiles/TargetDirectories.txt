@@ -1,0 +1,3 @@
+/home/diav3l/Desktop/webbrowser/build/CMakeFiles/rebuild_cache.dir
+/home/diav3l/Desktop/webbrowser/build/CMakeFiles/edit_cache.dir
+/home/diav3l/Desktop/webbrowser/build/CMakeFiles/crawler.dir
